@@ -31,7 +31,7 @@ class AddVideoScreen extends StatelessWidget {
           backgroundColor: Colors.transparent,
           elevation: 0,
           title: Text(
-            'New Video',
+            'New video',
             style: TextStyle(
               color: Colors.black87,
               fontWeight: FontWeight.w600,
